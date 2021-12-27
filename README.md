@@ -10,7 +10,7 @@ After judicious consideration of the economic tradeoffs in the Newsvendor model,
 only if the probability of your organic demand (excluding the room block in question) is smaller than 67% (i.e., you are on track to achieve a 67% service level).
 
 # Data
-To address the booking question you examine the following data set and proceed to develop a demand forecast model. The data set Booking Exercise.csv consists of daily observations of the following six variables:
+To address the booking question, you examine the following data set and proceed to develop a demand forecast model. The data set Booking Exercise.csv consists of daily observations of the following six variables:
 - DATE: Calendar date corresponding to each observation.
 - DOW: Index (1-7) to indicate the day of the week each DATE corresponds to. This is redundant and it is eliminated below.
 - DEMAND: Number of rooms actually sold on each DATE.
